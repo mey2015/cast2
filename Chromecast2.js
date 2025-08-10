@@ -1,4 +1,5 @@
-    /**
+
+/**
      * Initializes the Chromecast API.
      */
     function initChromecast() {
