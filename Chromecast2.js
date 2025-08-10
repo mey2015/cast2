@@ -1,4 +1,3 @@
-
     /**
      * Initializes the Chromecast API.
      */
